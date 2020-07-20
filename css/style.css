@@ -455,7 +455,7 @@ h1, h2, h3, h4, h5,
     .site-navbar .site-logo strong {
       font-weight: 900; }
     .site-navbar .site-logo a {
-      color: yellow; }
+      color: #000; }
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
         float: left;
@@ -483,7 +483,7 @@ h1, h2, h3, h4, h5,
         .site-navbar .site-navigation .site-menu > li > a:hover {
           color: #000; }
       .site-navbar .site-navigation .site-menu > li.active > a {
-        color: yellow;
+        color: #fff;
         position: relative; }
         .site-navbar .site-navigation .site-menu > li.active > a:before {
           content: "";
@@ -492,7 +492,7 @@ h1, h2, h3, h4, h5,
           left: 0;
           right: 0;
           height: 2px;
-          background: #000; }
+          background: #fff; }
     .site-navbar .site-navigation .site-menu .has-children {
       position: relative; }
       .site-navbar .site-navigation .site-menu .has-children > a {
@@ -520,7 +520,7 @@ h1, h2, h3, h4, h5,
         padding: 0px 0;
         margin-top: 20px;
         margin-left: 0px;
-        background: #000;
+        background: #fff;
         -webkit-transition: 0.2s 0s;
         -o-transition: 0.2s 0s;
         transition: 0.2s 0s; }
@@ -583,9 +583,9 @@ h1, h2, h3, h4, h5,
           visibility: visible;
           opacity: 1; }
   .site-navbar.light a {
-    color: yellow; }
+    color: #fff; }
   .site-navbar.light .site-menu li a {
-    color: yellow; }
+    color: #fff; }
     .site-navbar.light .site-menu li a:hover {
       color: #fff; }
 
@@ -805,7 +805,7 @@ h1, h2, h3, h4, h5,
     background-repeat: no-repeat; }
   .site-section-cover h1 {
     font-size: 3rem;
-    color: 	#fed8b1;
+    color: #fff;
     line-height: 1; }
     .site-section-cover h1 strong {
       font-weight: 900; }
